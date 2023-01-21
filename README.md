@@ -1,2 +1,2 @@
-# Eai galera
-estudo python
+# Hello people
+I study python
