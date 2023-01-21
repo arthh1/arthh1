@@ -1,1 +1,2 @@
 # Eai galera
+estudo python
